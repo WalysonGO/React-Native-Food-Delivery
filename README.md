@@ -121,7 +121,7 @@ react-native run-android
 
 ```
 cd RNFoodDeliveryDriver
-react-native start
+react-native start 
 react-native run-android
 ```
 
